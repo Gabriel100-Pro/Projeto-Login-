@@ -1,5 +1,5 @@
 
-document.querySelector(".login-form").addEventListener("submit", function(e) {
+document.querySelector(".login-form").addEventListener("click", function(e) {
     e.preventDefault(); // evita reload da página
 
     document.getElementById("spinner").style.display = "flex";
@@ -10,17 +10,4 @@ document.querySelector(".login-form").addEventListener("submit", function(e) {
     }, 3000); // tempo do carregamento
 });
 
-document.getElementById("okBtn").addEventListener("click", function() {
-    document.getElementById("successBox").style.display = "none";
-});
-const menuIcon = document.getElementById("menuIcon");
-const mobileMenu = document.getElementById("mobileMenu");
-const closeMenu = document.getElementById("closeMenu");
 
-menuIcon.addEventListener("click", () => {
-    mobileMenu.style.display = "flex";
-});
-
-closeMenu.addEventListener("click", () => {
-    mobileMenu.style.display = "none";
-});
