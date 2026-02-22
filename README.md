@@ -82,7 +82,18 @@ git clone https://github.com/seu-usuario/seu-repositorio.git
     Programer Front-end 
   </p>
 
-  <p>Curtiu? Deixa uma ⭐ no repo</p>
+<hr>
+📍 Jundiaí - SP<br>
+📧 contato.gabrielalmeida10@gmail.com<br>
+🔗 LinkedIn: linkedin.com/in/gabrielcarlosalexandre
+</p>
+
+<hr>
+
+<h3 align="center">
+⭐ Se você gostou do projeto, deixe uma estrela no repositório!
+</h3>
+
 
 </body>
 </html>
