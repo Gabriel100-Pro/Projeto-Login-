@@ -10,8 +10,8 @@
    <h1 align="center">🛒 Easy Shopping Via Mobile </h1>
 
   <p align="center">
-    💻 Projeto <strong>front-end </strong> feito pra treinar
-    <strong>layout, responsividade e JS raiz</strong>.<br>
+    💻 Projeto <strong>front-end </strong>com
+    <strong>layout moderno, responsividade e JS raiz</strong>.<br>
     Ultilizei:
     <br>
     <br>
@@ -27,7 +27,6 @@
     <li>🏠 Landing page + Login (<code>index.html</code>)</li>
     <li>📦 Página de planos / assets (<code>pastas.html</code>)</li>
     <li>📱 Menu mobile (hambúrguer)</li>
-    <li>🔄 Spinner fake de loading</li>
     <li>✅ Feedback de sucesso</li>
   </ul>
 
@@ -36,7 +35,6 @@
   <h2>⚙️ Features</h2>
   <ul>
     <li>📐 Layout responsivo</li>
-    <li>🍔 Menu mobile sem framework</li>
     <li>🧠 JavaScript puro manipulando DOM</li>
     <li>🔗 Navegação entre páginas HTML</li>
   </ul>
@@ -50,10 +48,6 @@
     <li>⚡ JavaScript Vanilla</li>
   </ul>
 
-  <p>
-    🚀 React ainda não foi implementado, mas será utilizado futuramente.
- 
-  </p>
 
   <hr>
 
@@ -84,11 +78,11 @@ git clone https://github.com/seu-usuario/seu-repositorio.git
 
   <h2>👨‍💻 Dev Junior</h2>
   <p>
-    <strong>Gabriel Carlos</strong> 👨‍💻 <br>
-    Programer Front-end in evolution 🚀
+    <strong>Gabriel Carlos</strong> <br>
+    Programer Front-end 
   </p>
 
-  <p>Curtiu? Deixa uma ⭐ no repo✋🏽🤪🤚🏽</p>
+  <p>Curtiu? Deixa uma ⭐ no repo</p>
 
 </body>
 </html>
